@@ -60,8 +60,8 @@ router.post('/', auth, async (req, res) => {
     let data = { 
     "priority":"high",
         "notification": {
-            "title": "FireDetector",
-            "body": "FireSpoted"
+            "title": "Fire Alert",
+            "body": "There might be a fire near you please confirm it and stay safe!"
         },
     "data" : {
         "click_action": "FLUTTER_NOTIFICATION_CLICK"
