@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7738889649",
+    "firebase_url": "https://firethefire-1f619.firebaseio.com",
+    "project_id": "firethefire-1f619",
+    "storage_bucket": "firethefire-1f619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7738889649:android:426e6ea7aa5323d1",
+        "android_client_info": {
+          "package_name": "com.example.firedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7738889649-ckv49gqsukfadp6v6l19mttn36euadg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0gYoVujMifDnDQ9cBdUDL4f0kN3aCmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

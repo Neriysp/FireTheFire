@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "aaa",
+    "db": "mongodb://localhost/nasa"
+}

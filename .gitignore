@@ -1,0 +1,11 @@
+Client/.DS_Store
+Client/.atom/
+Client/.idea
+Client/.vscode/
+Client/.packages
+Client/.pub/
+Client/build/
+Client/ios/.generated/
+Client/packages
+Client/.flutter-plugins
+Server/node_modules/
